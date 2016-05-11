@@ -1,0 +1,6 @@
+excerpt_separator: ""
+pygments: true
+markdown: kramdown
+url: http://netmarketio.github.io
+title: netmarketio
+paginate: 10
